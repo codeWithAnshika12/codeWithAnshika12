@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anshikashukla654@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/arpit/Downloads/cv.pdf](file:///C:/Users/arpit/Downloads/cv.pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZVsknEviFSES0xCFt-_bkAoV_dO3sSV8/view?usp=sharing]
 
 - ⚡ Fun fact **I think I am Funny**
 

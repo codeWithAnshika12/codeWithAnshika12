@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithanshika12&label=Profile%20views&color=0e75b6&style=flat" alt="codewithanshika12" /> </p>
 
-- 🌱 I’m currently learning **MERN APP**
+- 🌱 I’m currently learning **DATA ANALYTICS**
 
-- 💬 Ask me about **React.js , Angular.js**
+- 💬 Ask me about **PYTHON, FastAPI, django, sSQL**
 
 - 📫 How to reach me **anshikashukla654@gmail.com**
 
